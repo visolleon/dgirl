@@ -47,7 +47,7 @@ Theme Styles
 body {
   box-sizing: border-box;
   color:#373737;
-  background: #f8f8f8;
+  background: #4E4444;
   font-size: 16px;
   font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -140,15 +140,13 @@ img {
   position: relative;
   margin: 0 auto;
   max-width: 100%;
-  padding: 5px;
-  margin: 10px 0 10px 0;
-  border: 1px solid #ebebeb;
+  margin: 20px 0 10px 0;
 
-  box-shadow: 0 0 5px #ebebeb;
-  -webkit-box-shadow: 0 0 5px #ebebeb;
-  -moz-box-shadow: 0 0 5px #ebebeb;
-  -o-box-shadow: 0 0 5px #ebebeb;
-  -ms-box-shadow: 0 0 5px #ebebeb;
+  box-shadow: 0 0 10px #ebebeb;
+  -webkit-box-shadow: 0 0 10px #ebebeb;
+  -moz-box-shadow: 0 0 10px #ebebeb;
+  -o-box-shadow: 0 0 10px #ebebeb;
+  -ms-box-shadow: 0 0 10px #ebebeb;
 }
 
 pre, code {
