@@ -20,3 +20,7 @@
 		}
 	}
 })(window);
+
+function signUp() {
+	window.open('http://dgirls.51qiangzuo.com');
+}
